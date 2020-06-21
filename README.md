@@ -11,7 +11,7 @@ Using the K-Nearest Neighbours Classifier and given a number of features, predic
 
 ## Problem Statement 2 -- Naive Bayes Classifier
 
-Given the features in the dataset, using Naive Bayes Classifier, we are to determine whether an email is spam or not.
+Given the features in the dataset, using Naive Bayes Classifier, we are to determine whether an email is spam or ham.
 
 
 ## Setup/Installation Requirements
